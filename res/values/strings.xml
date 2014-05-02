@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InfoScreen</string>
+    <string name="default_name">Ola Normann</string>
+    <string name="default_time">1/1-1970</string>
+    <string name="default_phone">Opptatt</string>
+</resources>
